@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+checkpoints/
+*.bin
+*.safetensors
+wandb/
+.cache/
+*.pt
+*.pth
+.torch_kernel_cache.tar.gz
+.torch_dist_cache/
+checkpoints/
+runs/
+wandb/
+.cache/
